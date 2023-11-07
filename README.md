@@ -2,7 +2,7 @@
 Priming and Specificity Effects of Lexical Accent in Spanish Words: Examining the Lateralization.
 
 Materials. 
-The stimuli consisted of 40 Spanish spoken words and 40 spoken nonwords. 
+The stimuli consisted of 40 Spanish spoken words and 30 spoken nonwords. 
 All stimuli were composed of three syllables (trisyllabic) and 5-8 letters. 
 The lexical items were common Spanish words selected from the database EsPal (www.bcbl.eu/databases/espal/ ; Duchon, Perea, Sebastián-Gallés, Martí, & Carreiras, 2013), whose mean lexical frequency was 16 per million (log 1.53). 
 They were 10 control words (unprimed) and 30 experimental words (primed). 
