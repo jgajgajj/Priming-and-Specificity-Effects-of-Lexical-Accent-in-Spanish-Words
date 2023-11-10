@@ -1,5 +1,5 @@
 # Priming-and-Specificity-Effects-of-Lexical-Accent (Stress)-in-Spanish-Words
-Priming and Specificity Effects of Lexical Accent in Spanish Words: Examining the Lateralization.
+Priming and Specificity Effects of Lexical Stress in Spanish Words: Examining the Lateralization.
 
 Materials. 
 The stimuli consisted of 40 Spanish spoken words and 30 spoken nonwords. 
